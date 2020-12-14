@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7781f54c-6bfb-49d2-a67a-2b0fd5d4d3bf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/coderslab/entity/DaoCreate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/entity/DaoCreate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/coderslab/entity/DaoDelete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/entity/DaoDelete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/coderslab/entity/DaoRead.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/entity/DaoRead.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/coderslab/entity/DaoReadAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/entity/DaoReadAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/coderslab/entity/DaoUpdate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/entity/DaoUpdate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/coderslab/entity/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/entity/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/coderslab/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/coderslab/entity/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/entity/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/coderslab/entity/DaoCreate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/coderslab/entity/DaoCreate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/coderslab/entity/DaoRead.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/coderslab/entity/DaoRead.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/coderslab/entity/DaoReadAll.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/coderslab/entity/DaoReadAll.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/coderslab/entity/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/coderslab/entity/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/coderslab/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/coderslab/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/coderslab/entity/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/coderslab/entity/UserDao.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1idEVnhzgumq4BKerUZsDwAfN2z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.UserDao">
+    <configuration name="DaoCreate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.coderslab.entity.DaoCreate" />
+      <module name="workshop2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.coderslab.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DaoRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.coderslab.entity.DaoRead" />
+      <module name="workshop2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.coderslab.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DaoReadAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.coderslab.entity.DaoReadAll" />
+      <module name="workshop2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.coderslab.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DaoUpdate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.coderslab.entity.DaoUpdate" />
+      <module name="workshop2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.coderslab.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.coderslab.entity.UserDao" />
+      <module name="workshop2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.coderslab.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UserDao" />
+        <item itemvalue="Application.DaoCreate" />
+        <item itemvalue="Application.DaoUpdate" />
+        <item itemvalue="Application.DaoRead" />
+        <item itemvalue="Application.DaoReadAll" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7781f54c-6bfb-49d2-a67a-2b0fd5d4d3bf" name="Default Changelist" comment="" />
+      <created>1602229096363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602229096363</updated>
+      <workItem from="1602229097497" duration="32000" />
+      <workItem from="1602229157608" duration="1135000" />
+      <workItem from="1602231177777" duration="29741000" />
+      <workItem from="1602406975778" duration="6849000" />
+      <workItem from="1602511327304" duration="46000" />
+      <workItem from="1602834521153" duration="710000" />
+      <workItem from="1602835452780" duration="35039000" />
+      <workItem from="1604045339940" duration="3740000" />
+      <workItem from="1606810461892" duration="866000" />
+      <workItem from="1606811430055" duration="57000" />
+      <workItem from="1606811670086" duration="794000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="479" y="78" width="1024" height="852" key="#Project_Structure" timestamp="1602835547841">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state x="479" y="78" width="1024" height="852" key="#Project_Structure/72.27.1848.948@72.27.1848.948" timestamp="1602835547841" />
+    <state x="591" y="162" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602835881709">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state x="591" y="162" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1848.948@72.27.1848.948" timestamp="1602835881709" />
+    <state x="804" y="205" width="565" height="606" key="#com.intellij.ide.util.MemberChooser" timestamp="1602857744503">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state x="804" y="205" width="565" height="606" key="#com.intellij.ide.util.MemberChooser/72.27.1848.948@72.27.1848.948" timestamp="1602857744503" />
+    <state x="779" y="259" width="625" height="496" key="FileChooserDialogImpl" timestamp="1604048391836">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state x="779" y="259" width="625" height="496" key="FileChooserDialogImpl/72.27.1848.948@72.27.1848.948" timestamp="1604048391836" />
+    <state width="1802" height="317" key="GridCell.Tab.0.bottom" timestamp="1603869234891">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state width="1802" height="317" key="GridCell.Tab.0.bottom/72.27.1848.948@72.27.1848.948" timestamp="1603869234891" />
+    <state width="1802" height="317" key="GridCell.Tab.0.center" timestamp="1603869234890">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state width="1802" height="317" key="GridCell.Tab.0.center/72.27.1848.948@72.27.1848.948" timestamp="1603869234890" />
+    <state width="1802" height="317" key="GridCell.Tab.0.left" timestamp="1603869234890">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state width="1802" height="317" key="GridCell.Tab.0.left/72.27.1848.948@72.27.1848.948" timestamp="1603869234890" />
+    <state width="1802" height="317" key="GridCell.Tab.0.right" timestamp="1603869234890">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state width="1802" height="317" key="GridCell.Tab.0.right/72.27.1848.948@72.27.1848.948" timestamp="1603869234890" />
+    <state width="1802" height="298" key="GridCell.Tab.1.bottom" timestamp="1602273995790">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state width="1802" height="298" key="GridCell.Tab.1.bottom/72.27.1848.948@72.27.1848.948" timestamp="1602273995790" />
+    <state width="1802" height="298" key="GridCell.Tab.1.center" timestamp="1602273995789">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state width="1802" height="298" key="GridCell.Tab.1.center/72.27.1848.948@72.27.1848.948" timestamp="1602273995789" />
+    <state width="1802" height="298" key="GridCell.Tab.1.left" timestamp="1602273995789">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state width="1802" height="298" key="GridCell.Tab.1.left/72.27.1848.948@72.27.1848.948" timestamp="1602273995789" />
+    <state width="1802" height="298" key="GridCell.Tab.1.right" timestamp="1602273995789">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state width="1802" height="298" key="GridCell.Tab.1.right/72.27.1848.948@72.27.1848.948" timestamp="1602273995789" />
+    <state width="263" height="500" key="HiddenNamespacesPopup" timestamp="1602835893723">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state width="263" height="500" key="HiddenNamespacesPopup/72.27.1848.948@72.27.1848.948" timestamp="1602835893723" />
+    <state x="581" y="247" width="819" height="514" key="NewModule_or_Project.wizard" timestamp="1604048393870">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state x="581" y="247" width="819" height="514" key="NewModule_or_Project.wizard/72.27.1848.948@72.27.1848.948" timestamp="1604048393870" />
+    <state x="507" y="220" width="968" height="654" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1602839495300">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state x="507" y="220" width="968" height="654" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/72.27.1848.948@72.27.1848.948" timestamp="1602839495300" />
+    <state x="659" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1602248950467">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state x="659" y="233" width="672" height="678" key="search.everywhere.popup/72.27.1848.948@72.27.1848.948" timestamp="1602248950467" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.sql.SQLSyntaxErrorException" package="java.sql" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
